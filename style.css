@@ -235,8 +235,8 @@ html {
   margin-bottom: 3.2rem;
 }
 .about__description {
-  color: inherit;
-  font-size: 1.5rem;
+  color: var(--color-grey);
+  font-size: 1.6rem;
   line-height: 1.7;
 }
 /* SECTION ABOUT ENDS */
